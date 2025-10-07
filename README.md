@@ -13,6 +13,7 @@ Web developer app designer
 
 
 
-[![TheNotoriousCompa's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenotoriouscompa)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
