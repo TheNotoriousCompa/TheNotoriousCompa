@@ -10,6 +10,9 @@ Web developer app designer
 *   🧠  I'm currently learning NEXTJS and ElECTRON
 *   👥  I'm looking to collaborate on everything intresting enough
 *   🌊 Alwayes beware of the sea 🌊
-[![TheNotoriousCompa's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+[![TheNotoriousCompa's GitHub stats](https://github-readme-stats.vercel.app/api?username=thenotoriouscompa)](https://github.com/anuraghazra/github-readme-stats)
 
 
