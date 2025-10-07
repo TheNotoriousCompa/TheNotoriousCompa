@@ -11,6 +11,7 @@ Web developer app designer
 *   👥  I'm looking to collaborate on everything intresting enough
 *   🌊 Alwayes beware of the sea 🌊
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/thenotoriouscompa/github-readme-stats)
 
 
 
