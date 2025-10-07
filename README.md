@@ -8,5 +8,5 @@ Web developer app designer
 *   🖥️  See my portfolio at[](http://myportfoliomc.netlify.app/)
 *   ✉️  You can contact me at [compagnone.maurizio290@gmail.com](mailto:compagnone.maurizio290@gmail.com)
 *   🧠  I'm currently learning NEXTJS and ElECTRON
-*   👥  I'm looking to collaborate on everything is intresting enough
-*   💬  Ask me about Always beware of the sea
+*   👥  I'm looking to collaborate on everything intresting enough
+*   🌊 Alwayes beware of the sea 🌊
